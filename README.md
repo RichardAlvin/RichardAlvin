@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Alvin 👋
 
-[![android]](https://developer.android.com/)
 [![laravel]](https://laravel.com/)
 [![python]](https://www.python.org/)
 [![raspberry]](https://www.raspberrypi.org/)
-[![java]](https://www.java.com/en/)
-[![kotlin]](https://kotlinlang.org/)
-[![swift]](https://developer.apple.com/xcode/swiftui/)
-[![go]](https://golang.org/)
+[![nodeJs]](https://nodejs.org/en/)
+[![javascript]](https://www.javascript.com/)
 
 <a href>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelchen27&show_icons=true&bg_color=1A1C23&text_color=BBBBBB&title_color=E95678E6&icon_color=F8C291&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
