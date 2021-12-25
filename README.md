@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Alvin 👋
 
-[![laravel]](https://laravel.com/)
+[![amazonAWS]](https://aws.amazon.com/?nc2=h_lg)
+[![c]](https://devdocs.io/c/)
 [![python]](https://www.python.org/)
-[![raspberry]](https://www.raspberrypi.org/)
 [![nodeJs]](https://nodejs.org/en/)
 [![javascript]](https://www.javascript.com/)
+
 
 <a href>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelchen27&show_icons=true&bg_color=1A1C23&text_color=BBBBBB&title_color=E95678E6&icon_color=F8C291&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
@@ -34,14 +35,11 @@ Here are some ideas to get you started:
 
 <!-- LINKS -->
 
-[java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+[amazonAWS]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[c]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[raspberry]: https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white
-[kotlin]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
-[swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
-[go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[nodeJs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
