@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Alvin 👋
+## Hi there, I'm Richard Alvin 👋
 
 [![amazonAWS]](https://aws.amazon.com/?nc2=h_lg)
 [![c++]](https://devdocs.io/cpp/)
