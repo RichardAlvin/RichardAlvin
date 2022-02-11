@@ -22,15 +22,8 @@ Here are some ideas to get you started:
 [![javascript]](https://www.javascript.com/)
 
 
-<a href>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardAlvin&show_icons=true&bg_color=1A1C23&text_color=BBBBBB&title_color=E95678E6&icon_color=F8C291&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
-</a>
-<a href>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlvin&layout=compact&langs_count=6&bg_color=1A1C23&text_color=BBBBBB&title_color=E95678E6&hide_border=true" />
-</a>
-
 <p align="left">
-<a href="https://github.com/RichardAlvin">
+<a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RichardAlvin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RichardAlvin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
