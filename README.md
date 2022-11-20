@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![nodeJs]](https://nodejs.org/en/)
 [![javascript]](https://www.javascript.com/)
 [![net]](https://learn.microsoft.com/en-us/dotnet/)
+[![laravel]](https://laravel.com/)
 
 
 <p align="left">
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
 [nodeJs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
