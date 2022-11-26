@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Hi there, I'm Richard Alvin 👋
 
 [![amazonAWS]](https://aws.amazon.com/?nc2=h_lg)
+[![googleCloud]](https://cloud.google.com/docs)
 [![c++]](https://devdocs.io/cpp/)
 [![python]](https://www.python.org/)
 [![nodeJs]](https://nodejs.org/en/)
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 <!-- LINKS -->
 
 [amazonAWS]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[googleCloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 [c++]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [nodeJs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
